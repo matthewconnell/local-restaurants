@@ -1,2 +1,2 @@
 # local-restaurants
-A list of local restaurants
+A list of good local restaurants
